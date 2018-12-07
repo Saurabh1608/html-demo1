@@ -1,0 +1,35 @@
+h1{
+    color:red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ margin-left: 300px;   
+}
+img{
+    width:100px;
+    margin-left: 600px;
+}
+
+p{
+    margin-left: 300px;
+}
+aside
+{
+ background: red;
+ float : left;   
+ width: 20%;
+}
+blockquote{
+    text-align: center;
+    border:1px solid white;
+    margin: auto;
+    background: blue;
+}
+aside ul{
+    list-style: none;
+}
+.wrap
+{
+    width: 80%;
+    background:gold;
+    float :left;
+    text-align-last: auto;
+}
