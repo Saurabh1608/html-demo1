@@ -5,17 +5,17 @@ h1{
 }
 img{
     width:100px;
-    margin-left: 600px;
+    margin-left: 500px;
 }
 
 p{
-    margin-left: 300px;
+    margin-left: 200px;
 }
 aside
 {
  background: red;
  float : left;   
- width: 20%;
+ width: 10%;
 }
 blockquote{
     text-align: center;
